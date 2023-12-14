@@ -1,34 +1,10 @@
 {
   "TODOS": [
     {
-      "title": "Updated Todo",
+      "title": "",
       "completed": true,
       "userId": "2",
-      "id": 31
-    },
-    {
-      "title": "new Todo",
-      "completed": true,
-      "userId": "2",
-      "id": 33
-    },
-    {
-      "title": "again",
-      "completed": true,
-      "userId": "2",
-      "id": 35
-    },
-    {
-      "title": "qwert",
-      "completed": true,
-      "userId": "2",
-      "id": 36
-    },
-    {
-      "title": "chat gpt making life better and easier",
-      "completed": true,
-      "userId": "2",
-      "id": 37
+      "id": 1
     }
   ]
 }
